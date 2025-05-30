@@ -64,6 +64,20 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const contentData = [
         {
+            title: "Primera Sección",
+            category: "documentos",
+            content: 
+            `
+                <h2>Primera Seccion</h2>
+                <iframe src="primer_seccion.pdf" class="embedded-pdf"></iframe>
+                <div class="pdf-buttons">
+                    <button class="download-btn" data-pdf="primer_seccion.pdf">
+                        <i class="fas fa-download"></i> Descargar PDF
+                    </button>
+                </div>
+            `
+        },
+        {
             title: "Unidad 4 - Contenido",
             category: "documentos",
             content: 

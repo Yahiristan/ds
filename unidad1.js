@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Unidad 1 - Contenido</h2>
-                <iframe src="/ds/slider-main/pdf/unidad1.pdf" class="embedded-pdf"></iframe>
+                <iframe src="unidad1.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/unidad1.pdf">
+                    <button class="download-btn" data-pdf="unidad1.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Sustentabilidad",
             content: `
                 <h2>Sustentabilidad</h2>
-                <img src="/ds/slider-main/image/sustentabilidad.jpg" alt="Sustentabilidad Ambiental" class="modal-image">
+                <img src="sustentabilidad.jpg" alt="Sustentabilidad Ambiental" class="modal-image">
                 <p>Se refiere al mantenimiento del equilibrio de las relaciones de los seres
                     humanos con el medio, logrando un desarrollo económico mediante el avance
                     de la ciencia y la aplicación de la tecnología, sin dañar la dinámica del medio ambiente.</p>
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "conceptos",
             content: `
                 <h2>Investigar que es economía, sociedad y naturaleza</h2>
-                <img src="/ds/slider-main/image/extra1.jpg" alt="Tarea numero 1" class="modal-image">
+                <img src="extra1.jpg" alt="Tarea numero 1" class="modal-image">
                 <h3>Conceptos</h3>
                 <ul>
                     <li><strong>Economia:</strong> Sistema de producción, distribución, intercambio y consumo de bienes y servicios que satisface las necesidades humanas.</li>
@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "actividades",
             content: `
                 <h2>Estudio de campo - Impacto Ambiental</h2>
-                <img src="/ds/slider-main/image/extra2.jpg" alt="Estudio de campo" class="modal-image">
+                <img src="extra2.jpg" alt="Estudio de campo" class="modal-image">
                 <p>Análisis de impacto ambiental en la localidad, identificando problemas y proponiendo soluciones sustentables.</p>
                 
                 <h3>Temas abordados:</h3>
@@ -130,9 +130,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     medio ambiente en esos escenarios y dentro de su comunidad.</li>
                 </ul>
                 
-                <iframe src="/ds/slider-main/pdf/investigacion_de_campo.pdf" class="embedded-pdf"></iframe>
+                <iframe src="investigacion_de_campo.pdf" class="embedded-pdf"></iframe>
                 
-                <button class="download-btn" data-pdf="/ds/slider-main/pdf/investigacion_de_campo.pdf">
+                <button class="download-btn" data-pdf="investigacion_de_campo.pdf">
                     <i class="fas fa-download"></i> Descargar PDF
                 </button>
             `
@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Principios de la Sustentabilidad",
             content: `
                 <h2>Principios de la Sustentabilidad</h2>
-                <img src="/ds/slider-main/image/principio-sustentabilidad.jpg" alt="Sustentabilidad Ambiental" class="modal-image">
+                <img src="principio-sustentabilidad.jpg" alt="Sustentabilidad Ambiental" class="modal-image">
                 <p>Están inspirados en una diversidad de Propuestas y declaratorias que de una u otra manera
                 sirvieron de marco para la definición de las temáticas que se han abordado desde la conferencia de las naciones unidas sobre el medio ambiente.</p>
                 <p>El principio más básico es la capacidad de carga se refiere a la "carga máxima" un área en particular de la tierra puede sostener sin afectar negativamente a otros organismos en ese entorno.</p>   
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Dimensiones de la sustentabilidad",
             content: `
                 <h2>Dimensiones de la sustentabilidad</h2>
-                <img src="/ds/slider-main/image/dimensiones-sustentabilidad.jpg" alt="Dimensiones de la sustentabilidad" class="modal-image">
+                <img src="dimensiones-sustentabilidad.jpg" alt="Dimensiones de la sustentabilidad" class="modal-image">
                 <p>El desarrollo sustentable se basa en <strong>4 dimensiones clave</strong> que deben equilibrarse para lograr sostenibilidad a largo plazo:</p>
                 
                 <div class="dimension-grid">
@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Escenario Economico",
             content: `
                 <h2>Escenario Económico</h2>
-                <img src="/ds/slider-main/image/escenarios-economicos.avif" alt="Sustentabilidad Ambiental" class="modal-image">
+                <img src="escenarios-economicos.avif" alt="Sustentabilidad Ambiental" class="modal-image">
                 <p>La economía falla al valorar la riqueza global de las naciones, sus recursos naturales y especialmente los precios de las materias primas. De allí la importancia de valorizar los
                 recursos al menos por su costo de reposición y construir con ellos.</p>
             `
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "conceptos",
             content: `
                 <h2>Escenario Socio-Cultural</h2>
-                <img src="/ds/slider-main/image/socio-cultural.jpg" alt="Tarea numero 1" class="modal-image">
+                <img src="socio-cultural.jpg" alt="Tarea numero 1" class="modal-image">
                 <p>La dimensión ecológica de la sustentabilidad promueve la protección de los recursos naturales necesarios para la seguridad alimentaria y
                 energética, al mismo tiempo, comprende el requerimiento de la expansión de la producción para satisfacer a las poblaciones en crecimiento demográfico.</p>
             `

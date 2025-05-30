@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Unidad 2 - Contenido</h2>
-                <iframe src="/ds/slider-main/pdf/unidad2.pdf" class="embedded-pdf"></iframe>
+                <iframe src="unidad2.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/unidad2.pdf">
+                    <button class="download-btn" data-pdf="unidad2.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Informe Brundtland - Nuestro Futuro Común</h2>
-                <img src="/ds/slider-main/image/ecosistema.jpg" alt="Portada del Informe Brundtland" class="modal-image">
+                <img src="ecosistema.jpg" alt="Portada del Informe Brundtland" class="modal-image">
                 <p>Documento histórico (1987) que definió el <strong>desarrollo sustentable</strong> como: <em>"Satisfacer las necesidades del presente sin comprometer la capacidad de las generaciones futuras"</em>.</p>
         
                 <h3>Claves del informe:</h3>
@@ -92,9 +92,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li>Base para la <strong>Cumbre de la Tierra (1992)</strong> y los <strong>Objetivos de Desarrollo Sostenible</strong></li>
                     <li>Tres pilares: <strong>ecológico</strong>, <strong>social</strong> y <strong>económico</strong></li>
                 </ul>
-                <iframe src="/ds/slider-main/pdf/informe.pdf" class="embedded-pdf"></iframe>
+                <iframe src="informe.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/informe.pdf">
+                    <button class="download-btn" data-pdf="informe.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Video concientización del medio ambiente</h2>
-                <img src="/ds/slider-main/image/oceano.jpg" alt="Imagen tarea numero 2" class="modal-image">
+                <img src="oceano.jpg" alt="Imagen tarea numero 2" class="modal-image">
                 <p>Proceso educativo fundamental para crear conciencia sobre la importancia del agua como recurso vital y limitado, promoviendo su uso responsable y sostenible en la vida cotidiana, la industria y la agricultura.</p>
         
                 <h3>Aspectos clave:</h3>
@@ -122,9 +122,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="video-container">
                     <iframe src="https://drive.google.com/file/u/1/d/1pv5sllc5iwvHGYzX6ViJyze9bZZ9xk0K/view?usp=sharing" title="Video del proyecto" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-                <iframe src="/ds/slider-main/pdf/video_medioambiente.pdf" class="embedded-pdf"></iframe>
+                <iframe src="video_medioambiente.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/video_medioambiente.pdf">
+                    <button class="download-btn" data-pdf="video_medioambiente.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -136,9 +136,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Reporte de siembra</h2>
-                <iframe src="/ds/slider-main/pdf/siembra.pdf" class="embedded-pdf"></iframe>
+                <iframe src="siembra.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/siembra.pdf">
+                    <button class="download-btn" data-pdf="siembra.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Análisis: Geotormenta",
             content: `
                 <h2>Análisis de la película Geotormenta</h2>
-                <img src="/ds/slider-main/image/geotormenta.avif" alt="Película Geotormenta" class="modal-image">
+                <img src="geotormenta.avif" alt="Película Geotormenta" class="modal-image">
                 <p>Geotormenta (2017) es una película que, aunque ficción, plantea interesantes reflexiones sobre el cambio climático y la manipulación tecnológica del clima.</p>
                 
                 <h3>Elementos para análisis:</h3>
@@ -163,9 +163,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     <iframe src="https://www.youtube.com/embed/zEtUt-14wpQ" title="Trailer de Geotormenta" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 
-                <iframe src="/ds/slider-main/pdf/geotormenta.pdf" class="embedded-pdf"></iframe>
+                <iframe src="geotormenta.pdf" class="embedded-pdf"></iframe>
                 
-                <button class="download-btn" data-pdf="/ds/slider-main/pdf/geotormenta.pdf">
+                <button class="download-btn" data-pdf="geotormenta.pdf">
                     <i class="fas fa-download"></i> Descargar PDF
                 </button>
             `

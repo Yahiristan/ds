@@ -110,7 +110,7 @@ header .back-button:hover i {
     align-items: center;
     text-align: center;
     padding: 100px 20px 50px;
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url('/ds/slider-main/image/img1.jpg');
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url('img1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Efecto parallax opcional */

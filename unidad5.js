@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Contenido de la unidad 5 - PDF</h2>
-                <iframe src="/ds/slider-main/pdf/unidad5.pdf" class="embedded-pdf"></iframe>
+                <iframe src="unidad5.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/unidad5.pdf">
+                    <button class="download-btn" data-pdf="unidad5.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -119,9 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
   <li><a href="https://www.vidasostenible.org/proyectos/calculadora-de-huella-ecologica/" target="_blank">Fundación Vida Sostenible - Calculadora de Huella Ecológica</a></li>
 </ul>
 
-                <iframe src="/ds/slider-main/pdf/Huellaecologica.pdf" class="embedded-pdf"></iframe>
+                <iframe src="Huellaecologica.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/Huellaecologica.pdf">
+                    <button class="download-btn" data-pdf="Huellaecologica.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -223,9 +223,9 @@ document.addEventListener('DOMContentLoaded', function() {
   <li>Soto Aguirre Jesús Daniel</li>
 </ul>
 
-                <iframe src="/ds/slider-main/pdf/ContaminacionAmbiental.pdf" class="embedded-pdf"></iframe>
+                <iframe src="ContaminacionAmbiental.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/ContaminacionAmbiental.pdf">
+                    <button class="download-btn" data-pdf="ContaminacionAmbiental.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -266,9 +266,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </ul>
 
 <p>La huaya, más allá de su valor frutal, representa una estrategia integral de conservación, seguridad alimentaria y desarrollo rural sostenible en el contexto de Michoacán.</p>
-                <iframe src="/ds/slider-main/pdf/Reporte_siembra.pdf" class="embedded-pdf"></iframe>
+                <iframe src="Reporte_siembra.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/Reporte_siembra.pdf">
+                    <button class="download-btn" data-pdf="Reporte_siembra.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>

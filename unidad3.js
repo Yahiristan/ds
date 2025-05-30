@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Unidad 3 - Contenido</h2>
-                <iframe src="/ds/slider-main/pdf/unidad3.pdf" class="embedded-pdf"></iframe>
+                <iframe src="unidad3.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/unidad3.pdf">
+                    <button class="download-btn" data-pdf="unidad3.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -83,9 +83,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>ODS Numero 6 - Agua limpia y saneamiento</h2>
-                <iframe src="/ds/slider-main/pdf/ODS666.pdf" class="embedded-pdf"></iframe>
+                <iframe src="ODS666.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/ODS666.pdf">
+                    <button class="download-btn" data-pdf="ODS666.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -97,22 +97,22 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>ODS Presentados</h2>
-                <iframe src="/ds/slider-main/pdf/1.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/2.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/4.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/5.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/ODS666.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/7.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/8.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/9.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/10.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/11.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/12.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/13.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/14.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/15.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/16.pdf" class="embedded-pdf"></iframe>
-                <iframe src="/ds/slider-main/pdf/17.pdf" class="embedded-pdf"></iframe>
+                <iframe src="1.pdf" class="embedded-pdf"></iframe>
+                <iframe src="2.pdf" class="embedded-pdf"></iframe>
+                <iframe src="4.pdf" class="embedded-pdf"></iframe>
+                <iframe src="5.pdf" class="embedded-pdf"></iframe>
+                <iframe src="ODS666.pdf" class="embedded-pdf"></iframe>
+                <iframe src="7.pdf" class="embedded-pdf"></iframe>
+                <iframe src="8.pdf" class="embedded-pdf"></iframe>
+                <iframe src="9.pdf" class="embedded-pdf"></iframe>
+                <iframe src="10.pdf" class="embedded-pdf"></iframe>
+                <iframe src="11.pdf" class="embedded-pdf"></iframe>
+                <iframe src="12.pdf" class="embedded-pdf"></iframe>
+                <iframe src="13.pdf" class="embedded-pdf"></iframe>
+                <iframe src="14.pdf" class="embedded-pdf"></iframe>
+                <iframe src="15.pdf" class="embedded-pdf"></iframe>
+                <iframe src="16.pdf" class="embedded-pdf"></iframe>
+                <iframe src="17.pdf" class="embedded-pdf"></iframe>
             `
         },
         {
@@ -121,10 +121,10 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>LGEEPA</h2>
-                <img src="/ds/slider-main/image/LGEEPA.png" alt="Imagen tarea numero 2" class="modal-image">
-                <iframe src="/ds/slider-main/pdf/lgeepa.pdf" class="embedded-pdf"></iframe>
+                <img src="LGEEPA.png" alt="Imagen tarea numero 2" class="modal-image">
+                <iframe src="lgeepa.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/lgeepa.pdf">
+                    <button class="download-btn" data-pdf="lgeepa.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -136,9 +136,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Reporte del video tecnologico</h2>
-                <iframe src="/ds/slider-main/pdf/reporte_tecnologico.pdf" class="embedded-pdf"></iframe>
+                <iframe src="reporte_tecnologico.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/reporte_tecnologico.pdf">
+                    <button class="download-btn" data-pdf="reporte_tecnologico.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>

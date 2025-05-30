@@ -69,9 +69,9 @@ document.addEventListener('DOMContentLoaded', function() {
             content: 
             `
                 <h2>Unidad 4 - Contenido</h2>
-                <iframe src="/ds/slider-main/pdf/unidad4.pdf" class="embedded-pdf"></iframe>
+                <iframe src="unidad4.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/unidad4.pdf">
+                    <button class="download-btn" data-pdf="unidad4.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -98,9 +98,9 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>El PIB no solo sirve para medir el crecimiento económico, sino que también influye en decisiones clave como la política fiscal, las tasas de interés, la inversión pública y privada, y la evaluación del bienestar económico de la población. Un PIB creciente suele asociarse con mayores oportunidades de empleo, mejores servicios públicos y mayor inversión extranjera.</p>
             <p><strong>Críticas y limitaciones</strong></p>
             <p>Aunque el PIB es un indicador muy útil, también tiene limitaciones. No mide la distribución de la riqueza (es decir, puede crecer el PIB pero aumentar la desigualdad), ni considera el impacto ambiental, el trabajo no remunerado o la economía informal (que en México es bastante grande, representando más del 20% del PIB según algunas estimaciones). Además, no refleja la calidad de vida ni el bienestar emocional de las personas.</p>
-                <iframe src="/ds/slider-main/pdf/Tarea_PIB.pdf" class="embedded-pdf"></iframe>
+                <iframe src="Tarea_PIB.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/Tarea_PIB.pdf">
+                    <button class="download-btn" data-pdf="pdf/Tarea_PIB.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -117,9 +117,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>Este fenómeno está relacionado con el modelo de consumo excesivo y rápido (“usar y tirar”) que promueve el sistema capitalista actual. Al externalizar los costos, las empresas pueden ofrecer productos más baratos, lo cual fomenta el consumo, pero esto genera daños colaterales que no se ven reflejados en el precio final.</p>
                 <p><strong>Internalización de costos</strong>, por otro lado, es el proceso contrario. Consiste en que las empresas asuman plenamente todos los costos que genera su producción, incluyendo los ambientales, sociales y de salud. Esto implica, por ejemplo, pagar impuestos por contaminar, invertir en tecnologías limpias, ofrecer condiciones laborales justas, y responsabilizarse por el reciclaje o disposición final de sus productos.</p>
                 <p>Cuando los costos se internalizan correctamente, los productos reflejan su verdadero valor y las empresas tienen un incentivo económico para ser más sustentables. Además, promueve un consumo más consciente en la sociedad, ya que los consumidores pueden tomar decisiones informadas basadas no solo en el precio, sino en el impacto total del producto.</p>
-                <iframe src="/ds/slider-main/pdf/internalizacion_de_costos.pdf" class="embedded-pdf"></iframe>
+                <iframe src="internalizacion_de_costos.pdf" class="embedded-pdf"></iframe>
                 <div class="pdf-buttons">
-                    <button class="download-btn" data-pdf="/ds/slider-main/pdf/internalizacion_de_costos.pdf">
+                    <button class="download-btn" data-pdf="internalizacion_de_costos.pdf">
                         <i class="fas fa-download"></i> Descargar PDF
                     </button>
                 </div>
@@ -217,9 +217,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     <iframe src="https://www.youtube.com/embed/ASoC231fE0U" title="Video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 
-                <iframe src="/ds/slider-main/pdf/historia_de_las_cosas.pdf" class="embedded-pdf"></iframe>
+                <iframe src="historia_de_las_cosas.pdf" class="embedded-pdf"></iframe>
                 
-                <button class="download-btn" data-pdf="/ds/slider-main/pdf/historia_de_las_cosas.pdf">
+                <button class="download-btn" data-pdf="historia_de_las_cosas.pdf">
                     <i class="fas fa-download"></i> Descargar PDF
                 </button>
             `
